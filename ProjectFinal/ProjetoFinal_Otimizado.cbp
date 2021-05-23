@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ProjetoFinal_Otimizado" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ProjetoFinal_Otimizado" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ProjetoFinal_Otimizado" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="PlaylistFinal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SequenciaLista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SequenciaLista.h" />
+		<Unit filename="chaves.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chaves.h" />
+		<Unit filename="dicOrdenado.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dicOrdenado.h" />
+		<Unit filename="dicionario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dicionario.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="iteraVector.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="iterador.h" />
+		<Unit filename="jukebox.h" />
+		<Unit filename="jukeboxFinal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="musica.h" />
+		<Unit filename="musicaFinal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="noSimples.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="noSimples.h" />
+		<Unit filename="playlist.h" />
+		<Unit filename="tuplo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tuplo.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

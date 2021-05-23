@@ -1,0 +1,103 @@
+5 5000
+MUSIC p
+upload
+o homem do leme
+Xutos e Pontapes
+rock
+1985
+282
+music p
+upload
+nao sou o unico
+Xutos e Pontapes
+rock
+1987
+218
+upload
+negras como a noite
+Xutos e Pontapes
+rock
+1997
+307
+upload
+sei la'
+Barbara Tinoco
+pop
+2020
+211
+upload
+antes dela dizer que sim
+Barbara Tinoco
+pop
+2019
+195
+upload
+pesadelo em peluche
+Mao Morta
+metal
+2010
+3019
+upload
+no fim era o frio
+Mao Morta
+metal
+2019
+3045
+music a
+music p
+create 4
+xutos mania
+nao sou o unico
+negras como a noite
+o homem do leme
+nao sou o unico
+create 1
+metal1
+pesadelo em peluche
+create 2
+pop tuga
+sei la'
+antes dela dizer que sim
+create 3
+uma de cada
+nao sou o unico
+no fim era o frio
+antes dela dizer que sim
+create 4
+pop rock
+sei la'
+nao sou o unico
+antes dela dizer que sim
+o homem do leme
+create 4
+repete
+nao sou o unico
+antes dela dizer que sim
+nao sou o unico
+antes dela dizer que sim
+create 3
+outra
+antes dela dizer que sim
+sei la'
+o homem do leme
+Playlist pop tuga
+Playlist xutos mania
+Playlist uma de cada
+Playlist metal1
+Playlist repete
+Playlist outra
+music p
+Modify r 1 
+outra
+music p
+delete antes dela dizer que sim
+music p
+delete nao sou o unico
+music p
+delete sei la'
+Music p
+Delete o homem do leme
+Music p
+delete negras como a noite
+Music p
+quit

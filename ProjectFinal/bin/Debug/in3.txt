@@ -1,0 +1,43 @@
+5 3000
+terminar
+upload
+o homem do leme
+Xutos e Pontapes
+rock
+1985
+282
+Upload
+nao sou o unico
+Xutos e Pontapes
+rock
+1987
+218
+UPLOAD
+sei la'
+Barbara Tinoco
+pop
+2020
+211
+upload
+sei la'
+Barbara Tinoco
+pop
+2020
+211
+delete
+delete sei la
+delete nao
+delete nao sou o unico
+delete nao sou o unico
+upload
+nao sou o unico
+Xutos e Pontapes
+rock
+1987
+218
+delete o homem do leme
+delete nao sou o unico
+delete sei la'
+delete o nao sou o unico
+delete musicaX
+quit

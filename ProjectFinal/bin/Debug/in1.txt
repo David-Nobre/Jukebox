@@ -1,0 +1,4 @@
+10 3000
+update aa
+terminar
+quit

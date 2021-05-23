@@ -1,0 +1,75 @@
+5 3000
+music e
+music i
+Xutos e Pontapes
+upload
+o homem do leme
+Xutos e Pontapes
+rock
+1985
+282
+upload
+nao sou o unico
+Xutos e Pontapes
+rock
+1987
+218
+music a
+upload
+negras como a noite
+Xutos e Pontapes
+rock
+1997
+307
+music I
+Xutos e Pontapes
+upload
+sei la'
+Barbara Tinoco
+pop
+2020
+211
+music a
+music i
+Barbara Tinoco
+delete sei la'
+music i
+Barbara Tinoco
+upload
+antes dela dizer que sim
+Barbara Tinoco
+pop
+2019
+195
+upload
+pesadelo em peluche
+Mao Morta
+metal
+2010
+3019
+upload
+nao sou o unico
+Xutos e Pontapes
+rock
+1987
+218
+music a
+music i
+Barbara Bandeira
+music i
+Xutos e Pontapes
+music i
+Mao Morta
+delete antes dela dizer
+delete nao sou o unico
+delete antes dela dizer que sim
+music a
+delete pesadelo em peluche
+delete o homem do leme
+delete negras como a noite
+view negras como a noite
+delete sei la'
+Music x
+music I
+Xutos e Pontapes
+quit

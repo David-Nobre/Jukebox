@@ -1,0 +1,114 @@
+4 5000
+Playlist
+Playlist Sem Musicas
+Upload
+o homem do leme
+Xutos e Pontapes
+rock
+1985
+282
+upload
+nao sou o unico
+Xutos e Pontapes
+rock
+1987
+218
+create 3
+xutos mania
+nao sou o unico
+o homem do leme
+nao sou o unico
+Playlist xutos mania
+upload
+negras como a noite
+Xutos e Pontapes
+rock
+1997
+307
+upload
+sei la'
+Barbara Tinoco
+pop
+2020
+211
+upload
+antes dela dizer que sim
+Barbara Tinoco
+pop
+2019
+195
+upload
+pesadelo em peluche
+Mao Morta
+metal
+2010
+3019
+upload
+no fim era o frio
+Mao Morta
+metal
+2019
+3045
+CREATE 4
+varias musicas
+o homem do leme
+sei la'
+nao sou o unico
+antes dela dizer que sim
+Play varias musicas
+create 4
+xutos mania
+play xutos mania
+view o homem do leme
+View nao sou o unico
+Play xutos mania
+view o homem do leme
+VIEW nao sou o unico
+PLAYLIST xutos mania
+View sei la'
+play pop portuguesa
+PLAYlist pop portuguesa
+upload
+antes dela dizer que sim
+Barbara Tinoco
+pop
+2019
+195
+create 4
+pop portuguesa
+sei la'
+antes dela dizer que sim
+sei la'
+antes dela dizer que
+Play pop portuguesa
+Playlist pop portuguesa
+create 2
+pop portuguesa
+sei la'
+antes dela dizer que sim
+play pop portuguesa
+Playlist pop portuguesa
+view antes dela dizer que sim
+play xutos mania
+Playlist xutos mania
+play pop portuguesa
+Playlist pop portuguesa
+View o homem do leme
+VIEW sei la'
+View nao sou o unico
+Delete nao sou o unico
+View nao sou o unico
+Play xutos mania
+Playlist xutos mania
+playlist varias musica
+View o homem do leme
+Delete o homem do leme
+Playlist xutos mania
+view o homem do leme
+Play xutos mania
+Play pop portuguesa
+playlist varias musicas
+playlist xutos mania
+playlist pop portuguesa
+Playlist metal 
+quit

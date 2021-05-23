@@ -1,0 +1,51 @@
+4 500
+create 0
+CREATE 5
+Create 
+create 2
+minha playlist
+sei la'
+upload
+o homem do leme
+Xutos e Pontapes
+rock
+1985
+282
+upload
+nao sou o unico
+Xutos e Pontapes
+rock
+1987
+218
+create 2
+minha playlist
+o homem do leme
+sei la'
+create 2
+xutos playlist
+nao sou o unico
+o homem do leme
+Create 4
+xutos playlist
+create 3
+xutos outra
+o homem do leme
+nao sou o unico
+o homem do leme
+create 1
+xutos outra
+nao sou o unico
+upload
+no fim era o frio
+Mao Morta
+metal
+2019
+3045
+create 2
+Outra
+no fim era o frio
+Create 2
+Outra
+nao sou o unico
+nao sou o unico
+quit

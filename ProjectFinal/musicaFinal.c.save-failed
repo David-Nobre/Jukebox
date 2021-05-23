@@ -1,0 +1,63 @@
+#include <stdlib.h>
+#include <string.h>
+
+#include "musica.h"
+
+
+struct _musica{
+    char *nome;
+    char *autor;
+    char *genero;
+    int ano;
+    int duracao;
+    int vezesTocada;
+    int numPlaylists;
+};
+
+musica criaMusica(char *nome, char *autor, char *genero, int ano; int duracao){
+
+    musica m = (musica) malloc (sizeof (struct _musica));
+    m->nome = (char*)malloc(sizeof(char)*(strlen(nome) + 1));
+    strcpy(m->nome, nome);
+    m->autor = (char*) malloc( sizeof (char*)*(strlen(autor)+1));
+    strcpy(m->autor, autor);
+    m->genero = (char*) malloc (sizeof (char*)*(strlen(genero)+1));
+    strcpy(m->genero, genero);
+    m->ano = ano;
+    m->duracao = duracao;
+    m->VezesTocada = 0;
+    m->numPlaylists = 0;
+
+    return m;
+}
+
+void destroiMusica(musica m){
+    free(m->nome);
+    free(m->autor);
+    free(m->genero);
+    free(m);
+}
+
+void tocaMusica(musica m){
+    m->vezesTocada++;
+}
+
+char* RetornaNomeMusica(musica m){
+    return m->nome;
+}
+
+char* RetornaAutorMusica(musica m){
+    return m->autor;
+}
+
+char* RetornaGeneroMusica(musica m){
+    return m->genero;
+}
+
+int RetornaDuracaoMusica(musica m){
+    return m->duracao;
+}
+
+int RetornaVezesTocadaMusica(musica m){
+    return m->vezesTocada;
+}

@@ -1,0 +1,283 @@
+# depslib dependency file v1.0
+1591234589 source:c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\dicordenado.c
+	<stdlib.h>
+	"iterador.h"
+	"dicOrdenado.h"
+	"chaves.h"
+	"noSimples.h"
+	"tuplo.h"
+
+1591213063 c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\iterador.h
+
+1589499134 c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\dicordenado.h
+
+1591227297 c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\chaves.h
+
+1591227210 c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\tuplo.h
+
+1591228915 source:c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\dicionario.c
+	<stdlib.h>
+	"iterador.h"
+	"dicionario.h"
+	"chaves.h"
+	"noSimples.h"
+	"tuplo.h"
+
+1591207603 c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\dicionario.h
+
+1591211213 c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\nosimples.h
+
+1590260520 source:c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\sequencialista.c
+	<stdlib.h>
+	"iterador.h"
+	"noSimples.h"
+	"SequenciaLista.h"
+
+1587641888 c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\sequencialista.h
+
+1591228901 source:c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\playlistfinal.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"iterador.h"
+	"musica.h"
+	"playlist.h"
+	"SequenciaLista.h"
+
+1590420212 c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\musica.h
+
+1591217057 c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\playlist.h
+
+1591217301 source:c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\musicafinal.c
+	<stdlib.h>
+	<string.h>
+	"musica.h"
+
+1591228901 source:c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"iterador.h"
+	"musica.h"
+	"playlist.h"
+	"jukebox.h"
+
+1591217493 c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\jukebox.h
+
+1591213771 source:c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\tuplo.c
+	<stdlib.h>
+	<string.h>
+	"tuplo.h"
+
+1591213861 source:c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\nosimples.c
+	<stdlib.h>
+	"noSimples.h"
+
+1591234571 source:c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\chaves.c
+	<string.h>
+	"chaves.h"
+
+1591214039 source:c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\iteravector.c
+	<stdlib.h>
+	"iterador.h"
+
+1591228901 source:c:\users\dell\desktop\uni\1º ano\2º semestre\aed\projetofinal_otimizado\jukeboxfinal.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"iterador.h"
+	"dicOrdenado.h"
+	"dicionario.h"
+	"musica.h"
+	"playlist.h"
+	"jukebox.h"
+
+1591234571 source:c:\users\dell\projetofinal_otimizado\chaves.c
+	<string.h>
+	"chaves.h"
+
+1591227297 c:\users\dell\projetofinal_otimizado\chaves.h
+
+1591274487 source:c:\users\dell\projetofinal_otimizado\dicionario.c
+	<stdlib.h>
+	"iterador.h"
+	"dicionario.h"
+	"chaves.h"
+	"noSimples.h"
+	"tuplo.h"
+
+1591213063 c:\users\dell\projetofinal_otimizado\iterador.h
+
+1591207603 c:\users\dell\projetofinal_otimizado\dicionario.h
+
+1591211213 c:\users\dell\projetofinal_otimizado\nosimples.h
+
+1591227210 c:\users\dell\projetofinal_otimizado\tuplo.h
+
+1591318817 source:c:\users\dell\projetofinal_otimizado\dicordenado.c
+	<stdlib.h>
+	"iterador.h"
+	"dicOrdenado.h"
+	"chaves.h"
+	"noSimples.h"
+	"tuplo.h"
+
+1589499134 c:\users\dell\projetofinal_otimizado\dicordenado.h
+
+1591214039 source:c:\users\dell\projetofinal_otimizado\iteravector.c
+	<stdlib.h>
+	"iterador.h"
+
+1591360070 source:c:\users\dell\projetofinal_otimizado\jukeboxfinal.c
+	<stdlib.h>
+	<string.h>
+	"iterador.h"
+	"dicOrdenado.h"
+	"dicionario.h"
+	"musica.h"
+	"playlist.h"
+	"jukebox.h"
+
+1591359581 c:\users\dell\projetofinal_otimizado\musica.h
+
+1591311294 c:\users\dell\projetofinal_otimizado\playlist.h
+
+1591358391 c:\users\dell\projetofinal_otimizado\jukebox.h
+
+1591360070 source:c:\users\dell\projetofinal_otimizado\musicafinal.c
+	<stdlib.h>
+	<string.h>
+	"iterador.h"
+	"dicionario.h"
+	"musica.h"
+
+1591213861 source:c:\users\dell\projetofinal_otimizado\nosimples.c
+	<stdlib.h>
+	"noSimples.h"
+
+1591311244 source:c:\users\dell\projetofinal_otimizado\playlistfinal.c
+	<stdlib.h>
+	<string.h>
+	"iterador.h"
+	"musica.h"
+	"playlist.h"
+	"SequenciaLista.h"
+
+1587641888 c:\users\dell\projetofinal_otimizado\sequencialista.h
+
+1590260520 source:c:\users\dell\projetofinal_otimizado\sequencialista.c
+	<stdlib.h>
+	"iterador.h"
+	"noSimples.h"
+	"SequenciaLista.h"
+
+1591213771 source:c:\users\dell\projetofinal_otimizado\tuplo.c
+	<stdlib.h>
+	<string.h>
+	"tuplo.h"
+
+1591310789 source:c:\users\dell\projetofinal_otimizado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"iterador.h"
+	"musica.h"
+	"playlist.h"
+	"jukebox.h"
+
+1591360665 source:c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\chaves.c
+	<string.h>
+	"chaves.h"
+
+1591360665 c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\chaves.h
+
+1591360665 source:c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\dicionario.c
+	<stdlib.h>
+	"iterador.h"
+	"dicionario.h"
+	"chaves.h"
+	"noSimples.h"
+	"tuplo.h"
+
+1591360665 c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\iterador.h
+
+1591360665 c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\dicionario.h
+
+1591360665 c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\nosimples.h
+
+1591360665 c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\tuplo.h
+
+1591360665 source:c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\dicordenado.c
+	<stdlib.h>
+	"iterador.h"
+	"dicOrdenado.h"
+	"chaves.h"
+	"noSimples.h"
+	"tuplo.h"
+
+1591360665 c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\dicordenado.h
+
+1591360665 source:c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\iteravector.c
+	<stdlib.h>
+	"iterador.h"
+
+1591360665 source:c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\jukeboxfinal.c
+	<stdlib.h>
+	<string.h>
+	"iterador.h"
+	"dicOrdenado.h"
+	"dicionario.h"
+	"musica.h"
+	"playlist.h"
+	"jukebox.h"
+
+1591360665 c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\musica.h
+
+1591368912 c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\playlist.h
+
+1591368557 c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\jukebox.h
+
+1591360665 source:c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\musicafinal.c
+	<stdlib.h>
+	<string.h>
+	"iterador.h"
+	"dicionario.h"
+	"musica.h"
+
+1591360665 source:c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\nosimples.c
+	<stdlib.h>
+	"noSimples.h"
+
+1591360665 source:c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\playlistfinal.c
+	<stdlib.h>
+	<string.h>
+	"iterador.h"
+	"musica.h"
+	"playlist.h"
+	"SequenciaLista.h"
+
+1591360665 c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\sequencialista.h
+
+1591360665 source:c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\sequencialista.c
+	<stdlib.h>
+	"iterador.h"
+	"noSimples.h"
+	"SequenciaLista.h"
+
+1591360665 source:c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\tuplo.c
+	<stdlib.h>
+	<string.h>
+	"tuplo.h"
+
+1591370697 source:c:\users\vasco\desktop\faculdade\1ano\2semestre\aed\trabalhofinal\projectfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"iterador.h"
+	"musica.h"
+	"playlist.h"
+	"jukebox.h"
+

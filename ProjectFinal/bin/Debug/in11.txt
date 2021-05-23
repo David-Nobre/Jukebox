@@ -1,0 +1,110 @@
+5 5000
+upload
+o homem do leme
+Xutos e Pontapes
+rock
+1985
+282
+upload
+nao sou o unico
+Xutos e Pontapes
+rock
+1987
+218
+upload
+negras como a noite
+Xutos e Pontapes
+rock
+1997
+307
+upload
+sei la'
+Barbara Tinoco
+pop
+2020
+211
+upload
+antes dela dizer que sim
+Barbara Tinoco
+pop
+2019
+195
+upload
+pesadelo em peluche
+Mao Morta
+metal
+2010
+3019
+upload
+no fim era o frio
+Mao Morta
+metal
+2019
+3045
+create 4
+xutos mania
+nao sou o unico
+o homem do leme
+negras como a noite
+nao sou o unico
+playlist xutos mania
+create 4
+pop portuguesa
+sei la'
+antes dela dizer que sim
+sei la'
+antes dela dizer que sim
+playlist pop portuguesa
+play pop portuguesa
+play xutos mania
+play pop portuguesa
+create 4
+ESTILOS
+nao sou o unico
+negras como a noite
+sei la'
+pesadelo em peluche
+Play ESTILOS
+PLAYLIST ESTILOS
+modify r
+modify r 0
+modify r 5
+pop portuguesa
+modify r 3
+pop portuguesa
+playlist pop portuguesa
+modify r 4
+pop portuguesa
+play pop portuguesa
+modify r 3
+pop portuguesa
+play pop portuguesa
+playlist pop portuguesa
+modify r 1
+pop portuguesa
+MODIFY r 1
+pop portuguesa
+Modify r 1
+pop portuguesa
+Playlist pop portuguesa
+Play pop portuguesa
+Modify r 0
+Modify r 1
+pop portuguesa
+Play xutos mania
+Delete o homem do leme
+Playlist xutos mania
+Modify r 4
+xutos mania
+modifY r 3
+xutos mania
+View nao sou o unico
+PLAY xutos mania
+playlist xutos mania
+delete nao sou o unico
+View nao sou o unico
+PLAY ESTILOS
+PLAYLIST ESTILOS
+Playlist xutos mania
+View negras como a noite
+quit
